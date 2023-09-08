@@ -1,7 +1,7 @@
 const products = [
   {
     id: 0,
-    priductImg: "/assets/pic.jpg",
+    priductImg: "./assets/logo.svg",
     productName: "Ghee Rice",
     price: 165,
     description: "classic South Indian meal",
