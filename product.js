@@ -1,10 +1,10 @@
 const products = [
   {
     id: 0,
-    priductImg: "/assets/pic.jpg",
-    productName: "Ghee Rice",
+    priductImg: "./assets/pic (6).jpg",
+    productName: "Kabaab",
     price: 165,
-    description: "classic South Indian meal",
+    description: "Flover full Beef",
     isAdded: false,
   },
   {
@@ -41,15 +41,15 @@ const products = [
   },
   {
     id: 5,
-    priductImg: "./assets/logo.svg",
-    productName: "Chicken Grill",
+    priductImg: "./assets/pic (5).jpg",
+    productName: "Prawn Fry",
     price: 320,
     description: "Lorem Ipsum...",
     isAdded: false,
   },
   {
     id: 6,
-    priductImg: "./assets/logo.svg",
+    priductImg: "./assets/pic (4).jpg",
     productName: "Broaster",
     price: 195,
     description: "Lorem Ipsum...",
@@ -57,15 +57,15 @@ const products = [
   },
   {
     id: 7,
-    priductImg: "./assets/logo.svg",
-    productName: "Chicken Burger",
+    priductImg: "./assets/pic.jpg",
+    productName: "Ghee Rice",
     price: 100,
-    description: "Lorem Ipsum...",
+    description: "Flover Rice",
     isAdded: false,
   },
   {
     id: 8,
-    priductImg: "./assets/logo.svg",
+    priductImg: "./assets/pi- (1).jpg",
     productName: "Fries",
     price: 45,
     description: "Lorem Ipsum...",
@@ -73,7 +73,7 @@ const products = [
   },
   {
     id: 9,
-    priductImg: "./assets/logo.svg",
+    priductImg: "./assets/pi- (4).jpg",
     productName: "Beef Burger",
     price: 150,
     description: "Lorem Ipsum...",
@@ -81,7 +81,7 @@ const products = [
   },
   {
     id: 10,
-    priductImg: "./assets/logo.svg",
+    priductImg: "./assets/pi- (2).jpg",
     productName: "Cheese Burger",
     price: 110,
     description: "Lorem Ipsum...",
@@ -89,7 +89,7 @@ const products = [
   },
   {
     id: 11,
-    priductImg: "./assets/logo.svg",
+    priductImg: "./assets/pi- (3).jpg",
     productName: "Ham Burger",
     price: 90,
     description: "Lorem Ipsum...",

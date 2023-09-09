@@ -71,13 +71,7 @@ function toggleCount(action, id) {
       if (action === "plus") {
         prev++;
       } else if (action === "minus") {
-        if (prev === 1) {
-          cart = cart.pop((val) => {
-            val.id === id;
-          });
-        } else {
-          prev--;
-        }
+        prev--;
       }
     }
     return {
